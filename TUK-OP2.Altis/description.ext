@@ -1,1 +1,2 @@
 cba_settings_hasSettingsFile = 1;
+enableSaving [ false, false ];

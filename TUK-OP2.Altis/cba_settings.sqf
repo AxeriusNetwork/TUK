@@ -359,7 +359,7 @@ ace_weather_updateInterval = 60;
 ace_weather_windSimulation = true;
 
 // ACE Wind Deflection
-ace_winddeflection_enabled = true;
+ace_winddeflection_enabled = false;
 ace_winddeflection_simulationInterval = 0.05;
 ace_winddeflection_vehicleEnabled = true;
 
